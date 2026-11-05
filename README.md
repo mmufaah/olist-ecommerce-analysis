@@ -84,7 +84,6 @@ Customers in the top spending quartile who bought once are 23% of customers but 
 olist-project/
 ├── data/
 │   ├── raw/          # original Kaggle CSV files (not committed)
-│   ├── clean/        # cleaned CSV outputs
 │   └── tableau/      # Excel files used by the dashboard
 ├── notebooks/
 │   └── 01_analysis.ipynb
