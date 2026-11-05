@@ -96,7 +96,7 @@ olist-project/
 
 1. Download the dataset from Kaggle and place the CSV files in `data/raw/`.
 2. Install dependencies: `pip install pandas numpy matplotlib seaborn openpyxl`
-3. Run `notebooks/01_analysis.ipynb` from top to bottom. The notebook exports the cleaned files to `data/clean/` and `data/tableau/`.
+3. Run `notebooks/01_analysis.ipynb` from top to bottom. The notebook exports the cleaned files to `data/tableau/`.
 4. Open the Excel files in Tableau to rebuild the dashboard.
 
 ## Author
